@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Ayush Kumar Ojha 👋
 
-<!--
-**ayushojha06-data/ayushojha06-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 BCA Student | Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I'm currently learning **Data Analytics** and building practical skills to become job-ready as a Data Analyst.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills I'm Learning
+
+* 🐍 Python
+* 🗄️ SQL
+* 📊 Excel
+* 📈 Power BI
+* 🐼 Pandas
+* 📉 Data Analysis & Visualization
+
+### 🚀 Currently Working On
+
+* Strengthening my Data Analytics skills
+* Practicing SQL and data analysis
+* Building real-world projects
+* Preparing for Data Analyst opportunities
+
+### 📂 What You'll Find Here
+
+This profile will contain my:
+
+* Data Analytics projects
+* SQL practice
+* Python projects
+* Excel & Power BI work
+* Learning projects and experiments
+
+### 🎯 Goal
+
+To become a **job-ready Data Analyst** by focusing on practical skills, real-world projects, and continuous learning.
+
+---
+
+📫 **Connect with me on LinkedIn:** [LinkedIn](https://www.linkedin.com/in/ayush-ojha-22a4221b8/)
